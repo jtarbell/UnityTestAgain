@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resizer.cs">
+    <Files>
+      <File FileName="Assets/Shooter.cs" Line="16" Column="4" />
+      <File FileName="Assets/Resizer.cs" Line="15" Column="13" />
+      <File FileName="Assets/Tilter.cs" Line="18" Column="35" />
+      <File FileName="Assets/Welder.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
